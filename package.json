@@ -20,14 +20,14 @@
     "postbuild": "next-sitemap --config next-sitemap.config.js"
   },
   "dependencies": {
-    "axios": "^1.6.1",
+    "axios": "^1.8.2",
     "canvas": "^2.11.2",
     "classnames": "^2.3.2",
     "dayjs": "^1.11.10",
     "feed": "^4.2.2",
     "gitalk": "^1.8.0",
-    "mermaid": "^10.6.1",
-    "next": "^14.0.2",
+    "mermaid": "^11.10.0",
+    "next": "^14.2.32",
     "notion-client": "^6.16.0",
     "notion-utils": "^6.16.0",
     "preact": "^10.19.2",
